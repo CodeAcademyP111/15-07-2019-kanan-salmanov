@@ -1,0 +1,7 @@
+C:\Users\Fujitsu\source\repos\Deleg_HW\Deleg_HW\bin\Debug\Deleg_HW.exe.config
+C:\Users\Fujitsu\source\repos\Deleg_HW\Deleg_HW\bin\Debug\Deleg_HW.exe
+C:\Users\Fujitsu\source\repos\Deleg_HW\Deleg_HW\bin\Debug\Deleg_HW.pdb
+C:\Users\Fujitsu\source\repos\Deleg_HW\Deleg_HW\obj\Debug\Deleg_HW.csprojAssemblyReference.cache
+C:\Users\Fujitsu\source\repos\Deleg_HW\Deleg_HW\obj\Debug\Deleg_HW.csproj.CoreCompileInputs.cache
+C:\Users\Fujitsu\source\repos\Deleg_HW\Deleg_HW\obj\Debug\Deleg_HW.exe
+C:\Users\Fujitsu\source\repos\Deleg_HW\Deleg_HW\obj\Debug\Deleg_HW.pdb
